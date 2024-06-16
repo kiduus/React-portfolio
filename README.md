@@ -3,4 +3,4 @@ Portfolio 3D che presenta le mie competenze in un ambiente immersivo e visivamen
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Currently, two official plugins are available:
 
-Link: https://kidus-portfolio.vercel.app/
+Link: kidus-portfolio.vercel.app/
